@@ -1,3 +1,5 @@
+#following Udemy course: 100 days of code by Angela Yu
+
 city_name = input("What's the name of the city you grew up in:\n")
 pet_name = input("What was the name of your first pet?\n")
 
